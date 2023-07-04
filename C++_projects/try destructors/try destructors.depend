@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1652719511 source:c:\users\solom\onedrive\documents\try destructors\src\createanddestroy.cpp
+	"CreateAndDestroy.h"
+	<iostream>
+	<string>
+
+1652719511 c:\users\solom\onedrive\documents\try destructors\include\createanddestroy.h
+	<string>
+

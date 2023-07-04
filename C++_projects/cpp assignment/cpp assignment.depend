@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652185157 source:c:\users\solom\onedrive\documents\cpp assignment\main.cpp
+	<iostream>
+	<array>
+	<iomanip>
+

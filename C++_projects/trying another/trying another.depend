@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1652646521 source:c:\users\solom\onedrive\documents\trying another\main.cpp
+	<iostream>
+	"times.h"
+	<stdexcept>
+
+1652716444 source:c:\users\solom\onedrive\documents\trying another\src\times.cpp
+	"times.h"
+	<iostream>
+	<iomanip>
+	<stdexcept>
+
+1652716444 c:\users\solom\onedrive\documents\trying another\include\times.h
+

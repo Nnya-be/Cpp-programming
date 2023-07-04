@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1653519246 source:c:\users\solom\onedrive\documents\static data members\main.cpp
+	<iostream>
+	"employer.h"
+
+1653519384 c:\users\solom\onedrive\documents\static data members\include\employer.h
+	<string>
+

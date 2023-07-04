@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1660309369 source:c:\users\solom\onedrive\documents\operator overloading\main.cpp
+	<iostream>
+	"doubleScriptedArray.h"
+	<stdexcept>
+
+1660310073 c:\users\solom\onedrive\documents\operator overloading\include\doublescriptedarray.h
+	<iostream>
+
+1660309721 source:c:\users\solom\onedrive\documents\operator overloading\src\doublescriptedarray.cpp
+	"doubleScriptedArray.h"
+	<stdexcept>
+	<iostream>
+	<iomanip>
+

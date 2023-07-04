@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1654360366 source:c:\users\solom\onedrive\documents\cascaded function calls\main.cpp
+	<iostream>
+	"MyTime.h"
+	<ctime>
+
+1654360732 c:\users\solom\onedrive\documents\cascaded function calls\include\mytime.h
+	<ctime>
+
+1654360957 source:c:\users\solom\onedrive\documents\cascaded function calls\src\mytime.cpp
+	"MyTime.h"
+	<iomanip>
+	<iostream>
+	<stdexcept>
+

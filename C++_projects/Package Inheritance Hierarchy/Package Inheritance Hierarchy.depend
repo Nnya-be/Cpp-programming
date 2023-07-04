@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1673029605 source:c:\users\solom\onedrive\documents\package inheritance hierarchy\main.cpp
+	<iostream>
+
+1673285806 source:c:\users\solom\onedrive\documents\package inheritance hierarchy\src\package.cpp
+	"Package.h"
+	<iostream>
+	<iomanip>
+	<stdexcept>
+
+1673285379 c:\users\solom\onedrive\documents\package inheritance hierarchy\include\package.h
+	<string>
+

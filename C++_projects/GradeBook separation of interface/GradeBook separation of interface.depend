@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1641851825 source:c:\users\solom\documents\gradebook separation of interface\gradebook.h
+	<string>
+
+1641851644 source:c:\users\solom\documents\gradebook separation of interface\gradebook.cpp
+	"GradeBook.h"
+	<iostream>
+
+1641851825 c:\users\solom\documents\gradebook separation of interface\gradebook.h
+	<string>
+
+1641852036 source:c:\users\solom\documents\gradebook separation of interface\main.cpp
+	<iostream>
+	"GradeBook.h"
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1662431617 source:c:\users\solom\onedrive\documents\commission\main.cpp
+	<iostream>
+	<iomanip>
+	"CommissionEmployee.h"
+	"BasePlusCommissionEmployee.h"
+
+1661480456 c:\users\solom\onedrive\documents\commission\include\basepluscommissionemployee.h
+	<string>
+	"CommissionEmployee.h"
+
+1661480267 c:\users\solom\onedrive\documents\commission\include\commissionemployee.h
+	<string>
+
+1661480267 source:c:\users\solom\onedrive\documents\commission\src\basepluscommissionemployee.cpp
+	"BasePlusCommissionEmployee.h"
+	<iostream>
+	<stdexcept>
+
+1662431694 source:c:\users\solom\onedrive\documents\commission\src\commissionemployee.cpp
+	"CommissionEmployee.h"
+	<iostream>
+	<stdexcept>
+

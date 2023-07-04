@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1657815456 source:c:\users\solom\onedrive\documents\enhancing class time\main.cpp
+	"datepro.h"
+	<iostream>
+	<stdexcept>
+	<iomanip>
+
+1656616906 c:\users\solom\onedrive\documents\enhancing class time\include\timepro.h
+
+1657398470 source:c:\users\solom\onedrive\documents\enhancing class time\src\timepro.cpp
+	"timepro.h"
+	<iostream>
+	<stdexcept>
+	<iomanip>
+
+1657815499 source:c:\users\solom\onedrive\documents\enhancing class time\src\datepro.cpp
+	<iostream>
+	"datepro.h"
+	<iomanip>
+
+1657815527 c:\users\solom\onedrive\documents\enhancing class time\include\datepro.h
+

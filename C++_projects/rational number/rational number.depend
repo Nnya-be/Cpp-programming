@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1660792027 source:c:\users\solom\onedrive\documents\rational number\main.cpp
+	<iostream>
+	"RationalNumber.h"
+
+1660792289 source:c:\users\solom\onedrive\documents\rational number\src\rationalnumber.cpp
+	"RationalNumber.h"
+	<iostream>
+	<stdexcept>
+
+1660792251 c:\users\solom\onedrive\documents\rational number\include\rationalnumber.h
+	<iostream>
+

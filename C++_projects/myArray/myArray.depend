@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1659760092 source:c:\users\solom\onedrive\documents\myarray\main.cpp
+	<iostream>
+	<stdexcept>
+	"myArray.h"
+
+1659760092 c:\users\solom\onedrive\documents\myarray\include\myarray.h
+	<iostream>
+

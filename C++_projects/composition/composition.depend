@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1653132381 source:c:\users\solom\onedrive\documents\composition\main.cpp
+	<iostream>
+	"Date.h"
+	"Employee.h"
+
+1653132381 c:\users\solom\onedrive\documents\composition\include\date.h
+
+1653132539 c:\users\solom\onedrive\documents\composition\include\employee.h
+	<string>
+	"Date.h"
+
+1653132430 source:c:\users\solom\onedrive\documents\composition\src\date.cpp
+	<array>
+	<iostream>
+	<stdexcept>
+	"Date.h"
+

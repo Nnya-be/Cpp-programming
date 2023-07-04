@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1668721411 source:c:\users\solom\onedrive\documents\account inheritance\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<stdexcept>
+	"Account.h"
+	"savingsAccount.h"
+
+1668721222 source:c:\users\solom\onedrive\documents\account inheritance\src\account.cpp
+	"Account.h"
+	<iostream>
+	<stdexcept>
+
+1668710840 c:\users\solom\onedrive\documents\account inheritance\include\account.h
+
+1668721457 source:c:\users\solom\onedrive\documents\account inheritance\src\savingsaccount.cpp
+	"savingsAccount.h"
+	<iostream>
+
+1668720281 c:\users\solom\onedrive\documents\account inheritance\include\savingsaccount.h
+	"Account.h"
+

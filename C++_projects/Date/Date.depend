@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1642088929 source:c:\users\solom\documents\date\main.cpp
+	<iostream>
+	"Date.h"
+
+1642087747 source:c:\users\solom\documents\date\date.cpp
+	"Date.h"
+	<iostream>
+
+1642087710 c:\users\solom\documents\date\date.h
+

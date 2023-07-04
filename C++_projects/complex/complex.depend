@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1660595225 source:c:\users\solom\onedrive\documents\complex\main.cpp
+	<iostream>
+	"Complex.h"
+
+1660595995 c:\users\solom\onedrive\documents\complex\include\complex.h
+	<iostream>
+
+1660595041 source:c:\users\solom\onedrive\documents\complex\src\complex.cpp
+	<iostream>
+	"Complex.h"
+

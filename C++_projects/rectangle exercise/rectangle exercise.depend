@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1657966418 source:c:\users\solom\onedrive\documents\rectangle exercise\main.cpp
+	<iostream>
+	"rectangle.h"
+	"stdexcept"
+
+1657968593 source:c:\users\solom\onedrive\documents\rectangle exercise\src\rectangle.cpp
+	"rectangle.h"
+	<iostream>
+	<stdexcept>
+
+1657969218 c:\users\solom\onedrive\documents\rectangle exercise\include\rectangle.h
+

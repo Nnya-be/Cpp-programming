@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1657818012 source:c:\users\solom\onedrive\documents\enhancing date\src\datepro.cpp
+	"datepro.h"
+	<iostream>
+	<iomanip>
+
+1657817854 c:\users\solom\onedrive\documents\enhancing date\include\datepro.h
+
+1657818037 source:c:\users\solom\onedrive\documents\enhancing date\main.cpp
+	<iostream>
+	<iomanip>
+	"datepro.h"
+

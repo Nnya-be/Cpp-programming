@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1679981508 source:c:\users\solom\onedrive\documents\creating sequential file\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1654510308 source:c:\users\solom\onedrive\documents\test programs\src\complex.cpp
+	"complex.h"
+	<iostream>
+
+1654510297 c:\users\solom\onedrive\documents\test programs\include\complex.h
+
+1654510879 source:c:\users\solom\onedrive\documents\test programs\main.cpp
+	<iostream>
+	"complexa.h"
+
+1654622671 c:\users\solom\onedrive\documents\test programs\include\complexa.h
+
+1654622333 source:c:\users\solom\onedrive\documents\test programs\src\complexa.cpp
+	"complexa.h"
+	<iostream>
+

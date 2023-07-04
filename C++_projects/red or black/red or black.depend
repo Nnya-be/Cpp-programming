@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651162249 source:c:\users\solom\onedrive\documents\red or black\main.cpp
+	<iostream>
+	<random>
+	<ctime>
+

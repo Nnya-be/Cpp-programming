@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1658265362 source:c:\users\solom\onedrive\documents\full name\main.cpp
+	<iostream>
+	"fullname.h"
+
+1658265244 source:c:\users\solom\onedrive\documents\full name\src\fullname.cpp
+	"fullname.h"
+	<iomanip>
+
+1658265085 c:\users\solom\onedrive\documents\full name\include\fullname.h
+	<iostream>
+	<string>
+

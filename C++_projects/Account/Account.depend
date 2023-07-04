@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1641998840 source:c:\users\solom\documents\account\account.cpp
+	"Account.h"
+	<iostream>
+
+1641998766 c:\users\solom\documents\account\account.h
+
+1641998791 source:c:\users\solom\documents\account\main.cpp
+	<iostream>
+	"Account.h"
+

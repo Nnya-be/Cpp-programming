@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\solom\documents\invoice\main.cpp
+	<iostream>
+
+1642028416 source:c:\users\solom\documents\invoice\invoice.cpp
+	"Invoice.h"
+	<iostream>
+
+1642028389 c:\users\solom\documents\invoice\invoice.h
+	<string>
+

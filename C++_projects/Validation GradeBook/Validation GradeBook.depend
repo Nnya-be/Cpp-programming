@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1641854856 source:c:\users\solom\documents\validation gradebook\gradebook.cpp
+	"GradeBook.h"
+	<iostream>
+
+1641854856 c:\users\solom\documents\validation gradebook\gradebook.h
+	<string>
+
+1641854872 source:c:\users\solom\documents\validation gradebook\main.cpp
+	<iostream>
+	"GradeBook.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1680144646 source:c:\users\solom\onedrive\documents\clients data processing\main.cpp
+	<iostream>
+	"ClientData.h"
+	<string>
+	<fstream>
+	<cstdlib>
+
+1680142813 source:c:\users\solom\onedrive\documents\clients data processing\src\clientdata.cpp
+	"ClientData.h"
+	<string>
+
+1680142468 c:\users\solom\onedrive\documents\clients data processing\include\clientdata.h
+	<string>
+

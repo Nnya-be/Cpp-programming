@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1660771095 source:c:\users\solom\onedrive\documents\hugeint\src\hugeint.cpp
+	"HugeInt.h"
+	<cctype>
+
+1660771827 c:\users\solom\onedrive\documents\hugeint\include\hugeint.h
+	<array>
+	<iostream>
+	<string>
+
+1660771354 source:c:\users\solom\onedrive\documents\hugeint\main.cpp
+	<iostream>
+	"HugeInt.h"
+

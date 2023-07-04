@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1679984140 source:c:\users\solom\onedrive\documents\credit enquity program\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<cstdlib>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1660924204 source:c:\users\solom\onedrive\documents\polynomial\main.cpp
+	<iostream>
+	"polynomial.h"
+
+1660925967 c:\users\solom\onedrive\documents\polynomial\include\polynomial.h
+	<iostream>
+
+1660925983 source:c:\users\solom\onedrive\documents\polynomial\src\polynomial.cpp
+	"polynomial.h"
+	<iostream>
+
